@@ -1,5 +1,5 @@
 # Bright Coffee Shop Sales Performance
-### SQL Portfolio Project: Pattern Matching & Window Functions
+### SQL Portfolio Project: Wildcards & Window Functions
 
 ---
 
